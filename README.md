@@ -1,2 +1,1 @@
-# firsttime
-firsttime
+템플릿 다운받아서 텍스트를 수정했습니다.
